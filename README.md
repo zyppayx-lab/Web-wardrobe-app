@@ -2,6 +2,6 @@
 
 ## Screenshots
 
-![Home](Screenshot_20260601-232613.jpg)
+![Home](screenshots/Screenshot_20260601-232613.jpg)
 ![Outfits](screenshots/outfits.png)
 ![Style Tips](screenshots/tips.png)
