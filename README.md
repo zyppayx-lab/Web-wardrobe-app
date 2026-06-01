@@ -3,8 +3,7 @@
 ## Screenshots
 
 ![Home](screenshots/Screenshot_20260601-232613.jpg)
-![Outfits](screenshots/Screenshot_20260601-232635.jpg)
-![Style Tips](screenshots/Screenshot_20260601-232658.jpg)
-![Style Tips](screenshots/)
-![Style Tips](screenshots/)
-![Style Tips](screenshots/)
+![fashion](screenshots/Screenshot_20260601-232635.jpg)
+![furniture](screenshots/Screenshot_20260601-232658.jpg)
+![interior](screenshots/Screenshot_20260601-232716.jpg)
+![lifestyle](screenshots/Screenshot_20260601-232731.jpg)
