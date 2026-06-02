@@ -1,7 +1,9 @@
-# 👗 Web Wardrobe App
+# 👗 Web Wardrobe
 
-A simple fashion inspiration app with outfit ideas, style tips, and daily fashion trends.
+Your daily source of fashion inspiration, outfit ideas, style tips, and trend updates.
 
+📥 Download:
+https://www.webwardrobe.name.ng/download-app
 ---
 
 ## ✨ Features
